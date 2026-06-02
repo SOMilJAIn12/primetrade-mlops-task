@@ -1,0 +1,21 @@
+2026-06-02 20:01:41,743 - INFO - Job started
+2026-06-02 20:01:41,744 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-06-02 20:01:41,764 - INFO - Rows loaded: 10000
+2026-06-02 20:01:41,782 - INFO - Rolling mean computed
+2026-06-02 20:01:41,782 - INFO - Signal generated
+2026-06-02 20:01:41,782 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 42, 'seed': 42, 'status': 'success'}
+2026-06-02 20:01:41,782 - INFO - Job completed successfully
+2026-06-02 20:07:40,956 - INFO - Job started
+2026-06-02 20:07:40,957 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-06-02 20:07:40,964 - INFO - Rows loaded: 10000
+2026-06-02 20:07:40,978 - INFO - Rolling mean computed
+2026-06-02 20:07:40,978 - INFO - Signal generated
+2026-06-02 20:07:40,978 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 24, 'seed': 42, 'status': 'success'}
+2026-06-02 20:07:40,978 - INFO - Job completed successfully
+2026-06-02 20:41:01,652 - INFO - Job started
+2026-06-02 20:41:01,652 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-06-02 20:41:01,683 - INFO - Rows loaded: 10000
+2026-06-02 20:41:01,685 - INFO - Rolling mean computed
+2026-06-02 20:41:01,686 - INFO - Signal generated
+2026-06-02 20:41:01,686 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 34, 'seed': 42, 'status': 'success'}
+2026-06-02 20:41:01,686 - INFO - Job completed successfully
